@@ -1,0 +1,9 @@
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\bin\Debug\CityInformation.exe.config
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.csprojResolveAssemblyReference.cache
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.Form1.resources
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.Properties.Resources.resources
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.csproj.GenerateResource.Cache
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\bin\Debug\CityInformation.exe
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\bin\Debug\CityInformation.pdb
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.exe
+E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.pdb

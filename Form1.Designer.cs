@@ -146,6 +146,7 @@
             this.columnHeader2,
             this.columnHeader3,
             this.columnHeader4});
+            this.cityDetailsListView.FullRowSelect = true;
             this.cityDetailsListView.GridLines = true;
             this.cityDetailsListView.Location = new System.Drawing.Point(40, 65);
             this.cityDetailsListView.Name = "cityDetailsListView";

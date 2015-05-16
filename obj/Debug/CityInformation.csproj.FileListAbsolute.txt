@@ -7,3 +7,12 @@ E:\Work Batch 04\Shibl\ExamPaper\CityInformation\bin\Debug\CityInformation.exe
 E:\Work Batch 04\Shibl\ExamPaper\CityInformation\bin\Debug\CityInformation.pdb
 E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.exe
 E:\Work Batch 04\Shibl\ExamPaper\CityInformation\obj\Debug\CityInformation.pdb
+G:\C# tutorial\Every day Practice\CityInformation-master\bin\Debug\CityInformation.exe.config
+G:\C# tutorial\Every day Practice\CityInformation-master\obj\Debug\CityInformation.exe
+G:\C# tutorial\Every day Practice\CityInformation-master\obj\Debug\CityInformation.pdb
+G:\C# tutorial\Every day Practice\CityInformation-master\bin\Debug\CityInformation.exe
+G:\C# tutorial\Every day Practice\CityInformation-master\bin\Debug\CityInformation.pdb
+G:\C# tutorial\Every day Practice\CityInformation-master\obj\Debug\CityInformation.csprojResolveAssemblyReference.cache
+G:\C# tutorial\Every day Practice\CityInformation-master\obj\Debug\CityInformation.Form1.resources
+G:\C# tutorial\Every day Practice\CityInformation-master\obj\Debug\CityInformation.Properties.Resources.resources
+G:\C# tutorial\Every day Practice\CityInformation-master\obj\Debug\CityInformation.csproj.GenerateResource.Cache
